@@ -41,7 +41,7 @@ namespace web_api_jwt.Controllers
                     issuer: "https://localhost:5001",
                     audience: "https://localhost:5001",
                     claims: userclaim,
-                    expires: DateTime.Now.AddMinutes(10),
+                    expires: DateTime.Now.AddMinutes(1),
                     signingCredentials: creds);
 
                 var _refreshTokenObj = new RefreshToken
