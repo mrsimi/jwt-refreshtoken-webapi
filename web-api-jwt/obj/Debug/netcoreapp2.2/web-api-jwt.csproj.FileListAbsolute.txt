@@ -1,0 +1,13 @@
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\bin\Debug\netcoreapp2.2\web-api-jwt.deps.json
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\bin\Debug\netcoreapp2.2\web-api-jwt.runtimeconfig.json
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\bin\Debug\netcoreapp2.2\web-api-jwt.runtimeconfig.dev.json
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\bin\Debug\netcoreapp2.2\web-api-jwt.dll
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\bin\Debug\netcoreapp2.2\web-api-jwt.pdb
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.csproj.CoreCompileInputs.cache
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.RazorAssemblyInfo.cache
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.RazorAssemblyInfo.cs
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.AssemblyInfoInputs.cache
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.AssemblyInfo.cs
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.RazorTargetAssemblyInfo.cache
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.dll
+C:\Users\Simi\source\repos\web-api-jwt\web-api-jwt\obj\Debug\netcoreapp2.2\web-api-jwt.pdb
